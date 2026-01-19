@@ -19,8 +19,6 @@ Pandora doesn't ask nicely. Pandora doesn't need your mouse. Pandora lives in th
 | Lives in terminal | Never | Always |
 | Makes you mass? | Yes | No |
 
-The gods gave fire to mankind. We gave you Pandora.
-
 **Stop clicking. Start typing. Open the box.**
 
 ## Installation
