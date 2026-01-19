@@ -4,6 +4,25 @@
 
 A sleek terminal UI for macOS that reveals every process running on your machine. Built with [Textual](https://textual.textualize.io/) for a beautiful, keyboard-driven experience.
 
+## Why Pandora?
+
+**Activity Monitor is a relic.** A bloated GUI from another era. You click, you wait, you scroll, you squint, you click again, you confirm, you wait some more. It's 2025 and you're still using a mouse to kill a process? *Pathetic.*
+
+Pandora doesn't ask nicely. Pandora doesn't need your mouse. Pandora lives in the terminal where you already are.
+
+| | Activity Monitor | Pandora |
+|---|---|---|
+| Launch | Spotlight → type → click → wait for window | `pandora` |
+| Find process | Scroll... scroll... or click search... type... wait | `/` → type → instant |
+| Kill process | Click → Menu → Force Quit → "Are you sure?" → Click again | `k` → Enter → Dead |
+| Keyboard-driven | Lol no | 100% |
+| Lives in terminal | Never | Always |
+| Makes you mass? | Yes | No |
+
+The gods gave fire to mankind. We gave you Pandora.
+
+**Stop clicking. Start typing. Open the box.**
+
 ## Installation
 
 ```bash
